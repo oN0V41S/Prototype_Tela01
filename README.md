@@ -4,7 +4,7 @@ _Tela Prototipada e clonada em sala de aula. Prototyped and cloned screen in the
 ## Tools
 _HTML,CSS e Figma para fazer o propotipo_
 
-<https://prototype-tela01.netlify.app/>
+[in Netlify Host](https://prototype-tela01.netlify.app/)
 
 [in Github Pages](https://on0v41s.github.io/Prototype_Tela01/)
-[Link text Here](https://link-url-here.org)
+
