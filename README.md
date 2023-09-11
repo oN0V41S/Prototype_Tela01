@@ -4,4 +4,4 @@ _Tela Prototipada e clonada em sala de aula. Prototyped and cloned screen in the
 ## Tools
 _HTML,CSS e Figma para fazer o propotipo_
 
-[Link to Acces](https://prototype-tela01.netlify.app/)
+<https://prototype-tela01.netlify.app/>
