@@ -8,3 +8,4 @@ _HTML,CSS e Figma para fazer o propotipo_
 
 [in Github Pages](https://on0v41s.github.io/Prototype_Tela01/)
 
+![Imagem da Tela](./img/tela01.png)
